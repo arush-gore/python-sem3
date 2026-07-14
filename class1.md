@@ -33,3 +33,5 @@ Python was conceived in the late 1980s and its implementation was in December 19
 * Programming Application
 * NLP
 * Design
+
+Variables: Reserved memory locations to store values. Python is dynamic typed program as there is no variable declaration.
