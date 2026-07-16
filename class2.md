@@ -15,6 +15,8 @@ print(x)
 
 5. Finding variable datatype using `type()`
 
+6. Using `tuple`
+
 
 # Python Data Types:
 1. Numeric --> Integer, Complex Number, Float
