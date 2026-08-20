@@ -24,7 +24,7 @@ Example:
 list = [1, 2, 3, 'A', 'B', 7, 8, [10, 11]] #multiple type list
 thislist = ["apple", "banana", "cherry"]
 mix_list1 = ["abc", 34, True, 40, "male"]
-thislist = list(("apple, "banana", "cherry")) #Note: Double round brackets are for lists, single round bracket for tuple
+thislist = list(("apple", "banana", "cherry")) #Note: Double round brackets are for lists, single round bracket for tuple
 ```
 To see list type:
 ```python
