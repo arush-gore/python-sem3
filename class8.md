@@ -39,4 +39,23 @@ print(marks[0]) #23.6
 print(marks[1]) #45.1
 print(len(marks)) #6
 ```
+List slicing
+
+list_name[starting_idx : ending_idx] #ending idx is not included
+marks = [10,20,30,40,50]
+marks[1:4] is [20,30,40] #print(marks[1:4])
+marks[:4] is same as marks [0:4]
+marks[1:] 
+
+List Methods
+
+```python
+list = [5, 2, 7]
+list.append(8)
+print(list) #After adding one element at the end list = [5, 2, 7, 8]
+```
+```python
+list.sort() #sorts in ascending order 
+
+
 
