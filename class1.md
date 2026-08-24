@@ -35,3 +35,6 @@ Python was conceived in the late 1980s and its implementation was in December 19
 * Design
 
 Variables: Reserved memory locations to store values. Python is dynamic typed program as there is no variable declaration.
+
+<img width="1280" height="985" alt="WhatsApp Image 2026-08-24 at 15 59 25" src="https://github.com/user-attachments/assets/c10ddac1-b2a4-4a43-828b-481f64ebffab" />
+
